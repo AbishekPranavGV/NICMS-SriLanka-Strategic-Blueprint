@@ -19,7 +19,9 @@ The NICMS Hub serves as a secure, API-driven bridge between:
 5. MoWCA (Counseling/Support)
 6. SLCERT (Content Removal)
 
-![NICMS System Architecture](./image_ee2491.png)
+🔗 **[Launch Live Interactive Prototype](https://nicms-srilanka-blueprint.netlify.app/)** *(Experience the interactive "Anusha" survivor intake journey and witness the 4-hour SLA Handshake protocol in real-time.)*
+
+![NICMS System Architecture](./image.jpg)
 
 ## 03. Key BA Innovations
 - **Ghost-Tracking:** 16-digit 'Justice Key' for anonymous status tracking on shared devices.
